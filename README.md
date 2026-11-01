@@ -10,8 +10,3 @@
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
 
-## Status
-Planning (CSC649, Week 2)
-
-## Author
-[WAN ABDUL HAKIM BIN WAN MAHYUDDIN]
