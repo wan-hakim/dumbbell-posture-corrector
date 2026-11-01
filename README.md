@@ -1,4 +1,4 @@
-# dumbell-posture-corrector
+# dumbbell-posture-corrector
 
 [provides automated real-time workout posture monitoring and immediate corrective feedback for beginners, home fitness enthusiasts, and students performing dumbbell exercises without professional supervision.]
 
