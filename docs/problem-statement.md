@@ -11,3 +11,21 @@ Exercising with incorrect biomechanics reduces target muscle engagement and sign
 
 ## Problem statement (3 to 5 sentences)
 Beginners and home fitness enthusiasts often perform dumbbell exercises with improper posture due to a lack of immediate expert feedback and kinesthetic awareness. Performing these exercises with incorrect form reduces muscle engagement and significantly increases the risk of serious musculoskeletal injuries to the spine and shoulder joints. Hiring personal trainers is expensive, while existing computer vision systems are either too computationally heavy for standard webcams or rely on discrete classification that cannot evaluate continuous physical movement.
+
+## Users and Stakeholders
+* **Primary Users:** Beginners, home fitness enthusiasts, and students who engage in dumbbell resistance training without access to personal trainers.
+* **Secondary Stakeholders:** Personal trainers, physical therapists, and fitness app developers interested in automated posture correction and lightweight biomechanical analysis tools.
+
+## Scope
+
+### In Scope
+* Upper-body dumbbell exercises.
+* Real-time video stream capture using standard laptop webcams
+* Skeletal keypoint extraction using MediaPipe Pose and a lightweight CNN backbone.
+* Continuous joint angle evaluation using regression.
+* Visual real-time feedback.
+  
+### Out of Scope
+* Lower-body or compound resistance exercises.
+* Requirement of specialized depth-sensing hardware.
+* Advanced posture tracking.
