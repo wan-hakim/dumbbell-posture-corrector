@@ -16,8 +16,8 @@ Beginners and home fitness enthusiasts often perform dumbbell exercises with imp
 Unsupervised weightlifting frequently leads to joint strain and injuries due to poor kinesthetic awareness (Fierro et al., 2022; Williams & Taylor, 2023). Additionally, standard deep CNN models cause significant processing latency and frame-rate drops on everyday consumer hardware, making them impractical for live posture feedback (Wang et al., 2023).
 
 ## Users and Stakeholders
-* **Primary Users:** Beginners, home fitness enthusiasts, and students who engage in dumbbell resistance training without access to personal trainers.
-* **Secondary Stakeholders:** Personal trainers, physical therapists, and fitness app developers interested in automated posture correction and lightweight biomechanical analysis tools.
+* **Users:** Beginners, home fitness enthusiasts, and students who engage in dumbbell resistance training without access to personal trainers.
+* **Stakeholders:** Personal trainers, physical therapists, and fitness app developers interested in automated posture correction and lightweight biomechanical analysis tools.
 
 ## Scope
 
